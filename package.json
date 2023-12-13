@@ -1,0 +1,29 @@
+{
+  "name": "tutorial-app",
+  "version": "1.0.0",
+  "description": "nodejs app using express and mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devkrizz/B8-Nodejs-App.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "express"
+  ],
+  "author": "krizzdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devkrizz/B8-Nodejs-App/issues"
+  },
+  "homepage": "https://github.com/devkrizz/B8-Nodejs-App#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.3"
+  }
+}
